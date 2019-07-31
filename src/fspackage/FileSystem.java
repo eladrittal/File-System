@@ -1,8 +1,8 @@
-package FSPackage;
+package fspackage;
 
 import java.util.*;
 
-import static FSPackage.Main.mainRoot;
+import static fspackage.Main.mainRoot;
 
 public class FileSystem {
     String root;

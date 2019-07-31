@@ -1,4 +1,4 @@
-package FSPackage;
+package fspackage;
 
 import java.util.ArrayList;
 import java.util.HashMap;

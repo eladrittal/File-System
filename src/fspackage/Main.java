@@ -1,4 +1,4 @@
-package FSPackage;
+package fspackage;
 
 public class Main {
     static String mainRoot;

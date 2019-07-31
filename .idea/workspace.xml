@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cea957aa-ec5c-4c01-93a2-5b5fbfdd20fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FileSystems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FileSystems.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FileSystems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FileSystems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSPackage/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fspackage/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSPackage/FileInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fspackage/FileInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSPackage/FileSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fspackage/FileSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSPackage/Folder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fspackage/Folder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSPackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fspackage/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,9 +23,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FSPackage/FileInput.java">
+        <entry file="file://$PROJECT_DIR$/src/fspackage/FileInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="85">
               <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -31,23 +35,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FSPackage/Folder.java">
+        <entry file="file://$PROJECT_DIR$/src/fspackage/Folder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1564570765278" expanded="true" signature="257:309" ph="..." />
+                <marker date="1564584575087" expanded="true" signature="257:309" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FSPackage/FileSystem.java">
+        <entry file="file://$PROJECT_DIR$/src/fspackage/FileSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#5415#5416#0" expanded="true" />
@@ -60,10 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FSPackage/File.java">
+        <entry file="file://$PROJECT_DIR$/src/fspackage/File.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,10 +76,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FSPackage/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/fspackage/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -117,17 +121,21 @@
         <option value="$PROJECT_DIR$/src/FSPackage/Test.java" />
         <option value="$PROJECT_DIR$/src/FSPackage/FileInput.java" />
         <option value="$PROJECT_DIR$/src/FSPackage/Folder.java" />
-        <option value="$PROJECT_DIR$/src/FSPackage/Main.java" />
         <option value="$PROJECT_DIR$/src/FSPackage/File.java" />
         <option value="$PROJECT_DIR$/src/FSPackage/FileSystem.java" />
+        <option value="$PROJECT_DIR$/src/FSPackage/Main.java" />
+        <option value="$PROJECT_DIR$/src/fspackage/FileSystem.java" />
+        <option value="$PROJECT_DIR$/src/fspackage/FileInput.java" />
+        <option value="$PROJECT_DIR$/src/fspackage/File.java" />
+        <option value="$PROJECT_DIR$/src/fspackage/Folder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1959" />
-    <option name="y" value="114" />
-    <option name="width" value="1920" />
-    <option name="height" value="1040" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -137,35 +145,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FileSystems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileSystems" type="462c0819:PsiDirectoryNode" />
+              <item name="File-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File-System" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FileSystems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileSystems" type="462c0819:PsiDirectoryNode" />
+              <item name="File-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File-System" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FileSystems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FileSystems" type="462c0819:PsiDirectoryNode" />
+              <item name="File-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="File-System" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="FSPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="fspackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564582666855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564584603003" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yuval\Downloads\AutomationTests-master\AutomationTests-master\File-System\src\fspackage" />
+      <recent name="C:\Users\Yuval\Downloads\AutomationTests-master\AutomationTests-master\File-System\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -181,7 +198,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSPackage.Main" />
+      <option name="MAIN_CLASS_NAME" value="fspackage.Main" />
       <module name="FileSystems" />
       <extension name="coverage">
         <pattern>
@@ -222,9 +239,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49585062" visible="true" weight="0.25799572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49585062" visible="true" weight="0.26066098" />
       <window_info id="Structure" order="1" sideWeight="0.5041494" side_tool="true" weight="0.2553305" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -233,13 +251,13 @@
       <window_info id="Favorites" order="6" sideWeight="0.5041494" side_tool="true" weight="0.2553305" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.46478873" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.46444446" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.25893825" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49840087" weight="0.3288889" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.3288889" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50159913" side_tool="true" visible="true" weight="0.46444446" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -284,187 +302,175 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Main.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Main.java</url>
-          <line>22</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>34</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>35</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/File.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/File.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/File.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/File.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/File.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/File.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>138</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>14</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/Folder.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/Folder.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>143</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>112</line>
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>44</line>
           <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/File.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/File.java</url>
           <line>33</line>
           <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>78</line>
           <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>56</line>
           <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>185</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>194</line>
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>184</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>207</line>
           <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>85</line>
           <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>76</line>
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>130</line>
           <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FSPackage/FileSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/fspackage/FileSystem.java</url>
           <line>103</line>
           <properties />
           <option name="timeStamp" value="64" />
@@ -524,9 +530,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/FSPackage/MXMNode.java" />
     <entry file="file://$PROJECT_DIR$/src/FSPackage/MXMTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/FSPackage/FileInput.java">
+    <entry file="file://$PROJECT_DIR$/src/fspackage/File.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fspackage/FileInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -534,21 +550,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FSPackage/Folder.java">
+    <entry file="file://$PROJECT_DIR$/src/fspackage/FileSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1564570765278" expanded="true" signature="257:309" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FSPackage/FileSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#5415#5416#0" expanded="true" />
@@ -559,29 +564,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FSPackage/File.java">
+    <entry file="file://$PROJECT_DIR$/src/fspackage/Folder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+            <marker date="1564584575087" expanded="true" signature="257:309" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FSPackage/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/fspackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FileSystems</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.28735632" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

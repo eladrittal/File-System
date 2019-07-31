@@ -1,4 +1,4 @@
-package FSPackage;
+package fspackage;
 
 import java.util.List;
 import java.util.Map;
